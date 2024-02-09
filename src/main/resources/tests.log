@@ -1,0 +1,7 @@
+224  [main] INFO  BookingServiceTest - Moc object bookingService has been created
+2645 [main] INFO  BookingServiceTest - Test "checkBookingServiceWithMockTrue" start
+2681 [main] DEBUG BookingServiceTest - Mok return true
+2694 [main] INFO  BookingServiceTest - Test "checkBookingServiceWithMockTrue" completed
+2720 [main] INFO  BookingServiceTest - Test "checkBookingServiceWithMockException" start
+2730 [main] DEBUG BookingServiceTest - Mok return exception
+2733 [main] INFO  BookingServiceTest - Test "checkBookingServiceWithMockException" completed
